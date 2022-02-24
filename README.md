@@ -17,10 +17,9 @@
   
   ##
   
-<div>
     
   ![Snake animation](https://github.com/duartegui/duartegui/blob/output/github-contribution-grid-snake.svg)
   
-  </div>
+  
   
   
