@@ -2,7 +2,6 @@
 
 - 💻 Atualmente trabalho com Help Desk
 - 📚 Estudo Python, css e html
-- 😃 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/duartegui">
